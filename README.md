@@ -3,7 +3,7 @@ Resurrection for this very useful drag scroll plugin from YuTingtao.
 Original repo: https://github.com/YuTingtao/dragscroll.js
 
 **I dont' know how to use GitHub and I am not going to maintain this plugin.**
-**It helped me a lot, so I just want it to survive for others.**
+**It helped me a lot, so I just want it to exist to help others.**
 
 Another jQuery based drag to scroll plugin which allows users to move content in a scrollable area horizontally or vertically using mouse drag (desktop) or touch swipe events (mobile).
 
