@@ -69,3 +69,5 @@ $('.drag').dragScroll({
   }
 });
 ```
+
+Special thank to: https://www.jqueryscript.net/other/drag-swipe-scroll.html
