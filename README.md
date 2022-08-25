@@ -45,7 +45,7 @@ $(function(){
 **4. Limit the direction of scrolling: horizontal or vertical. Default: both.**
 
 ```
-$('.drag').drag<a href="https://www.jqueryscript.net/tags.php?/Scroll/">Scroll</a>({
+$('.drag').dragScroll({
   direction: 'scrollLeft'
 });
 
