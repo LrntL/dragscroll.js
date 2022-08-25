@@ -7,6 +7,9 @@ Original repo: https://github.com/YuTingtao/dragscroll.js
 
 Another jQuery based drag to scroll plugin which allows users to move content in a scrollable area horizontally or vertically using mouse drag (desktop) or touch swipe events (mobile).
 
+**I suggested a new feature on the original repo. So I reposted my "issue" in the issues of this one to let you know.**
+**Please see: https://github.com/LrntL/dragscroll.js/issues/1#issue-1350867943**
+
 ## How to use it:
 
 **1. Add your long content to a scrollable container. In this example, we're going to apply a panning functionality to an image.**
