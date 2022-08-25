@@ -1,5 +1,5 @@
 # dragscroll.js
-Resurrection for this very useful drag scroll plugin from YuTingtao.
+Resurrection for this very useful drag scroll plugin from **YuTingtao**.
 Original repo: https://github.com/YuTingtao/dragscroll.js
 
 **I dont' know how to use GitHub and I am not going to maintain this plugin.**
